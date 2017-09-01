@@ -1,0 +1,24 @@
+{
+  "name": "vaadin",
+  "description": "Bundle containing all elements which are part of the Vaadin platform",
+  "homepage": "https://github.com/vaadin/vaadin",
+  "authors": [
+    "Artur Signell <artur@vaadin.com>"
+  ],
+  "main": "",
+  "license": [
+    "Apache2",
+    "http://vaadin.com/license/cval"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "vaadin-board": "1.0.1",
+    "vaadin-charts": "5.0.0"
+  }
+}
