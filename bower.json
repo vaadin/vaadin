@@ -18,8 +18,8 @@
     "tests"
   ],
   "dependencies": {
-    "vaadin-board": "1.0.1",
+    "vaadin-board": "1.1.0-alpha1",
     "vaadin-charts": "5.0.0",
-    "vaadin-core": "master"
+    "vaadin-core": "2.0.0-alpha1"
   }
 }
