@@ -20,6 +20,6 @@
   "dependencies": {
     "vaadin-board": "1.1.0-beta1",
     "vaadin-charts": "6.0.0-alpha4",
-    "vaadin-core": "10.0.0-alpha7"
+    "vaadin-core": "10.0.0-alpha8"
   }
 }
