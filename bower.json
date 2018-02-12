@@ -18,7 +18,7 @@
     "tests"
   ],
   "dependencies": {
-    "vaadin-board": "2.0.0-alpha1",
+    "vaadin-board": "2.0.0-alpha4",
     "vaadin-charts": "6.0.0-alpha14",
     "vaadin-core": "10.0.0-alpha18"
   }
