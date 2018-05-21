@@ -12,6 +12,6 @@ addons:
   chrome: latest
 
 install:
-  - npm install
+  - npm install bower
   - bower install
 

@@ -1,14 +1,13 @@
 {
-  "name": "vaadin",
-  "version": "10.0.0-beta10",
+  "name": "@vaadin/vaadin",
+  "version": "10.0.0-pre1",
   "description": "Vaadin Elements is an evolving set of open source custom HTML elements, built using Polymer, for building mobile and desktop web applications in modern browsers.",
   "author": "Vaadin Ltd",
   "license": "(Apache-2.0 OR SEE LICENSE IN https://vaadin.com/license/cval-3.0)",
   "dependencies": {
-    "bower": "latest"
-  },
-  "scripts": {
-    "version": "node update-core-version.js && git add bower.json"
+    "@vaadin/vaadin-board": "2.0.0-pre.2",
+    "@vaadin/vaadin-charts": "6.1.0-pre.2",
+    "@vaadin/vaadin-core": "10.0.0-pre.3"
   },
   "devDependencies": {},
   "keywords": [
