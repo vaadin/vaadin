@@ -1,9 +1,9 @@
 {
   "name": "vaadin",
-  "description": "Bundle containing all elements which are part of the Vaadin platform",
+  "description": "Bundle containing all web components which are part of the Vaadin platform",
   "homepage": "https://github.com/vaadin/vaadin",
   "authors": [
-    "Artur Signell <artur@vaadin.com>"
+    "Vaadin Ltd"
   ],
   "main": "",
   "license": [
@@ -18,8 +18,8 @@
     "tests"
   ],
   "dependencies": {
-    "vaadin-board": "2.0.0",
-    "vaadin-charts": "6.0.1",
-    "vaadin-core": "10.0.0-rc1"
+    "vaadin-core": "vaadin-core#10.0.0-rc2",
+    "vaadin-board": "vaadin-board#2.0.0",
+    "vaadin-charts": "vaadin-charts#6.0.1"
   }
 }
