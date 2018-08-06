@@ -20,7 +20,7 @@
   "dependencies": {
     "vaadin-core": "11.0.0-alpha1",
     "vaadin-board": "vaadin-board#2.0.0",
-    "vaadin-charts": "vaadin-charts#6.1.0-beta3",
+    "vaadin-charts": "vaadin-charts#6.1.0",
     "vaadin-confirm-dialog": "vaadin-confirm-dialog#1.0.0",
     "vaadin-cookie-consent": "vaadin-cookie-consent#1.0.0"
   }
