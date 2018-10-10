@@ -15,7 +15,8 @@
     "node_modules",
     "bower_components",
     "test",
-    "tests"
+    "tests",
+    "update-core-version.js"
   ],
   "dependencies": {
     "vaadin-core": "12.0.0-alpha3",
