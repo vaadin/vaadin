@@ -15,13 +15,15 @@
     "node_modules",
     "bower_components",
     "test",
-    "tests"
+    "tests",
+    "update-core-version.js"
   ],
   "dependencies": {
-    "vaadin-core": "12.0.0-alpha3",
+    "vaadin-core": "vaadin-core#12.0.0-alpha4",
     "vaadin-board": "vaadin-board#2.1.0-alpha1",
     "vaadin-charts": "vaadin-charts#6.2.0-alpha1",
     "vaadin-confirm-dialog": "vaadin-confirm-dialog#1.1.0-alpha1",
-    "vaadin-cookie-consent": "vaadin-cookie-consent#1.1.0-alpha2"
+    "vaadin-cookie-consent": "vaadin-cookie-consent#1.1.0-alpha2",
+    "vaadin-app-layout": "vaadin-app-layout#1.0.0-alpha2"
   }
 }
