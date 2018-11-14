@@ -18,10 +18,11 @@
     "tests"
   ],
   "dependencies": {
-    "vaadin-core": "11.0.1",
+    "vaadin-core": "vaadin-core#11.0.2",
     "vaadin-board": "vaadin-board#2.0.0",
     "vaadin-charts": "vaadin-charts#6.1.0",
     "vaadin-confirm-dialog": "vaadin-confirm-dialog#1.0.1",
-    "vaadin-cookie-consent": "vaadin-cookie-consent#1.0.2"
+    "vaadin-cookie-consent": "vaadin-cookie-consent#1.0.2",
+    "vaadin-license-checker": "vaadin-license-checker#2.0.1"
   }
 }
