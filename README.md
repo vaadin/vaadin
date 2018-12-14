@@ -59,7 +59,6 @@ The chat and the forum category are dedicated channels for this project, while t
 - [Forum](https://vaadin.com/forum/#!/category/9848927)
 - [Twitter](https://twitter.com/vaadin)
 - [Facebook](https://www.facebook.com/vaadin/)
-- [G+](https://plus.google.com/communities/108116678608923665301)
 
 ### Some ways to help:
 
