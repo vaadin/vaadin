@@ -55,7 +55,7 @@ The components below are part of the [Vaadin Pro Subscription](https://vaadin.co
 
 ## Learn more
 
-See the list of components, demos and documentation, instructions how to get started, video tutorials, application demos and more by visiting:
+See demos and documentation, instructions how to get started, video tutorials, application demos and more by visiting:
 
 ### [vaadin.com/components ›](https://vaadin.com/components)
 
