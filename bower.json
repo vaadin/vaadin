@@ -19,7 +19,7 @@
     "update-core-version.js"
   ],
   "dependencies": {
-    "vaadin-core": "vaadin-core#13.0.5",
+    "vaadin-core": "13.0.5",
     "vaadin-board": "vaadin-board#2.1.0",
     "vaadin-charts": "vaadin-charts#6.2.2",
     "vaadin-confirm-dialog": "vaadin-confirm-dialog#1.1.1",
