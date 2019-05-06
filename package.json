@@ -5,7 +5,7 @@
   "author": "Vaadin Ltd",
   "license": "(Apache-2.0 OR SEE LICENSE IN https://vaadin.com/license/cval-3.0)",
   "dependencies": {
-    "@vaadin/vaadin-core": "^13.0.5",
+    "@vaadin/vaadin-core": "^13.0.6",
     "@vaadin/vaadin-board": "^2.1.0",
     "@vaadin/vaadin-charts": "^6.2.2",
     "@vaadin/vaadin-confirm-dialog": "^1.1.1",
