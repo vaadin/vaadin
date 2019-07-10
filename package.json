@@ -14,7 +14,9 @@
     "@vaadin/vaadin-grid-pro": "^2.0.3",
     "@vaadin/vaadin-rich-text-editor": "^1.0.4"
   },
-  "files": [],
+  "files": [
+    "vaadin.js"
+  ],
   "scripts": {
     "version": "node update-core-version.js && git add bower.json"
   },
