@@ -5,7 +5,7 @@
   "authors": [
     "Vaadin Ltd"
   ],
-  "main": "vaadin.html",
+  "main": "",
   "license": [
     "Apache-2.0",
     "https://vaadin.com/license/cval-3.0"
@@ -19,7 +19,7 @@
     "update-core-version.js"
   ],
   "dependencies": {
-    "vaadin-core": "14.0.0-rc4",
+    "vaadin-core": "vaadin-core#14.0.0-rc5",
     "vaadin-board": "vaadin-board#2.1.0",
     "vaadin-charts": "vaadin-charts#6.2.3",
     "vaadin-confirm-dialog": "vaadin-confirm-dialog#1.1.1",
