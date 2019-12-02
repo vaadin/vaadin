@@ -19,7 +19,7 @@
     "update-core-version.js"
   ],
   "dependencies": {
-    "vaadin-core": "14.0.14",
+    "vaadin-core": "vaadin-core#14.0.15",
     "vaadin-board": "vaadin-board#2.1.1",
     "vaadin-charts": "vaadin-charts#6.2.4",
     "vaadin-confirm-dialog": "vaadin-confirm-dialog#1.1.5",
@@ -27,7 +27,7 @@
     "vaadin-crud": "vaadin-crud#1.0.5",
     "vaadin-grid-pro": "vaadin-grid-pro#2.0.5",
     "vaadin-rich-text-editor": "vaadin-rich-text-editor#1.0.4",
-    "vaadin-license-checker": "vaadin-license-checker#2.1.1",
+    "vaadin-license-checker": "vaadin-license-checker#2.1.2",
     "cookieconsent": "cookieconsent#3.1.0"
   }
 }
