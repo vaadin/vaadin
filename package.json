@@ -18,9 +18,6 @@
   "files": [
     "vaadin.js"
   ],
-  "scripts": {
-    "version": "node update-core-version.js && git add bower.json"
-  },
   "keywords": [
     "vaadin",
     "core",
