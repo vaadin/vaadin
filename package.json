@@ -6,7 +6,7 @@
   "license": "(Apache-2.0 OR SEE LICENSE IN https://vaadin.com/license/cval-3.0)",
   "main": "vaadin.js",
   "dependencies": {
-    "@vaadin/vaadin-core": "^14.1.16",
+    "@vaadin/vaadin-core": "^14.1.17",
     "@vaadin/vaadin-board": "^2.1.1",
     "@vaadin/vaadin-charts": "^6.2.4",
     "@vaadin/vaadin-confirm-dialog": "^1.1.5",
