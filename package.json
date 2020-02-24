@@ -6,11 +6,11 @@
   "license": "(Apache-2.0 OR SEE LICENSE IN https://vaadin.com/license/cval-3.0)",
   "main": "vaadin.js",
   "dependencies": {
-    "@vaadin/vaadin-core": "^15.0.0-beta3",
     "@vaadin/vaadin-board": "^2.1.1",
     "@vaadin/vaadin-charts": "^6.2.4",
     "@vaadin/vaadin-confirm-dialog": "^1.1.6",
     "@vaadin/vaadin-cookie-consent": "^1.1.2",
+    "@vaadin/vaadin-core": "^15.0.0-beta4",
     "@vaadin/vaadin-crud": "^1.1.0",
     "@vaadin/vaadin-grid-pro": "^2.0.6",
     "@vaadin/vaadin-rich-text-editor": "^1.1.1"
