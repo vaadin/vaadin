@@ -8,9 +8,9 @@
   "dependencies": {
     "@vaadin/vaadin-board": "^2.1.1",
     "@vaadin/vaadin-charts": "^6.2.4",
-    "@vaadin/vaadin-confirm-dialog": "^1.1.5",
+    "@vaadin/vaadin-confirm-dialog": "^1.1.6",
     "@vaadin/vaadin-cookie-consent": "^1.1.2",
-    "@vaadin/vaadin-core": "^14.1.20",
+    "@vaadin/vaadin-core": "^14.1.21",
     "@vaadin/vaadin-crud": "^1.1.0",
     "@vaadin/vaadin-grid-pro": "^2.0.5",
     "@vaadin/vaadin-rich-text-editor": "^1.1.1"
