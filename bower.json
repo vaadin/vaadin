@@ -24,7 +24,7 @@
     "vaadin-charts": "vaadin-charts#6.2.4",
     "vaadin-confirm-dialog": "vaadin-confirm-dialog#1.1.6",
     "vaadin-cookie-consent": "vaadin-cookie-consent#1.1.2",
-    "vaadin-core": "vaadin-core#14.1.27",
+    "vaadin-core": "14.1.27",
     "vaadin-crud": "vaadin-crud#1.1.0",
     "vaadin-grid-pro": "vaadin-grid-pro#2.0.7",
     "vaadin-license-checker": "vaadin-license-checker#2.1.2",
