@@ -7,13 +7,13 @@
   "main": "vaadin.js",
   "dependencies": {
     "@vaadin/vaadin-board": "^2.1.1",
-    "@vaadin/vaadin-charts": "^6.2.4",
-    "@vaadin/vaadin-confirm-dialog": "^1.1.6",
+    "@vaadin/vaadin-charts": "^6.3.0",
+    "@vaadin/vaadin-confirm-dialog": "^1.2.0",
     "@vaadin/vaadin-cookie-consent": "^1.1.2",
-    "@vaadin/vaadin-core": "^14.2.0",
-    "@vaadin/vaadin-crud": "^1.1.0",
-    "@vaadin/vaadin-grid-pro": "^2.0.7",
-    "@vaadin/vaadin-rich-text-editor": "^1.1.1"
+    "@vaadin/vaadin-core": "^14.3.0-alpha1",
+    "@vaadin/vaadin-crud": "^1.2.1",
+    "@vaadin/vaadin-grid-pro": "^2.1.0",
+    "@vaadin/vaadin-rich-text-editor": "^1.2.0"
   },
   "files": [
     "vaadin.js"
