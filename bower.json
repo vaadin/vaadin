@@ -24,9 +24,9 @@
     "vaadin-charts": "vaadin-charts#6.3.1",
     "vaadin-confirm-dialog": "vaadin-confirm-dialog#1.2.1",
     "vaadin-cookie-consent": "vaadin-cookie-consent#1.1.2",
-    "vaadin-core": "14.3.4",
+    "vaadin-core": "vaadin-core#14.3.5",
     "vaadin-crud": "vaadin-crud#1.2.1",
-    "vaadin-grid-pro": "vaadin-grid-pro#2.1.1",
+    "vaadin-grid-pro": "vaadin-grid-pro#2.1.2",
     "vaadin-license-checker": "vaadin-license-checker#2.1.2",
     "vaadin-rich-text-editor": "vaadin-rich-text-editor#1.2.2"
   }
