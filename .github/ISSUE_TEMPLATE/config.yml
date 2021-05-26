@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: "Web Components: Bugs and Feature Requests"
+    url: https://github.com/vaadin/web-components/issues/new/choose
+    about: Please report issues related to the TypeScript and HTML API of Vaadin components here.
+  - name: "Flow Components: Bugs and Feature Requests"
+    url: https://github.com/vaadin/flow-components/issues/new/choose
+    about: Please report issues related to the Java API of Vaadin components here.
