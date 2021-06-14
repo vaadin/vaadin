@@ -10,7 +10,7 @@
     "@vaadin/vaadin-charts": "^21.0.0-alpha6",
     "@vaadin/vaadin-confirm-dialog": "^21.0.0-alpha6",
     "@vaadin/vaadin-cookie-consent": "^21.0.0-alpha6",
-    "@vaadin/vaadin-core": "^21.0.0-alpha4",
+    "@vaadin/vaadin-core": "^21.0.0-alpha5",
     "@vaadin/vaadin-crud": "^21.0.0-alpha6",
     "@vaadin/vaadin-grid-pro": "^21.0.0-alpha6",
     "@vaadin/vaadin-rich-text-editor": "^21.0.0-alpha6"
