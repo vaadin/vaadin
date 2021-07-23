@@ -5,7 +5,7 @@
 
 # Vaadin components
 
-[Vaadin components](https://vaadin.com/components) is an evolving set of high-quality user interface web components commonly needed in modern mobile and desktop business web applications. The following components are included:
+[Vaadin components](https://vaadin.com/components) is an evolving set of high-quality user interface web components commonly needed in modern mobile and desktop business web applications. The following components are included :
 
 ## Core Components
 
