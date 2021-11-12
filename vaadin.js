@@ -6,6 +6,4 @@ import '@vaadin/cookie-consent';
 import '@vaadin/crud';
 import '@vaadin/grid-pro';
 import '@vaadin/grid-pro/vaadin-grid-pro-edit-column.js';
-import '@vaadin/message-input';
-import '@vaadin/message-list';
 import '@vaadin/rich-text-editor';
