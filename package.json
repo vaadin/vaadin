@@ -17,7 +17,7 @@
     "@vaadin/vaadin-charts": "22.0.0-beta2",
     "@vaadin/vaadin-confirm-dialog": "22.0.0-beta2",
     "@vaadin/vaadin-cookie-consent": "22.0.0-beta2",
-    "@vaadin/vaadin-core": "22.0.0-beta2",
+    "@vaadin/vaadin-core": "22.0.0-beta3",
     "@vaadin/vaadin-crud": "22.0.0-beta2",
     "@vaadin/vaadin-grid-pro": "22.0.0-beta2",
     "@vaadin/vaadin-rich-text-editor": "22.0.0-beta2"
