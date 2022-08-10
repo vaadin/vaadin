@@ -8,7 +8,6 @@
   "dependencies": {
     "@vaadin/board": "23.2.0-alpha5",
     "@vaadin/charts": "23.2.0-alpha5",
-    "@vaadin/confirm-dialog": "23.2.0-alpha5",
     "@vaadin/cookie-consent": "23.2.0-alpha5",
     "@vaadin/crud": "23.2.0-alpha5",
     "@vaadin/grid-pro": "23.2.0-alpha5",
@@ -16,7 +15,6 @@
     "@vaadin/rich-text-editor": "23.2.0-alpha5",
     "@vaadin/vaadin-board": "23.2.0-alpha5",
     "@vaadin/vaadin-charts": "23.2.0-alpha5",
-    "@vaadin/vaadin-confirm-dialog": "23.2.0-alpha5",
     "@vaadin/vaadin-cookie-consent": "23.2.0-alpha5",
     "@vaadin/vaadin-core": "23.2.0-alpha3",
     "@vaadin/vaadin-crud": "23.2.0-alpha5",

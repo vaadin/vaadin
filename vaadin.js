@@ -1,7 +1,6 @@
 import '@vaadin/vaadin-core';
 import '@vaadin/board';
 import '@vaadin/charts';
-import '@vaadin/confirm-dialog';
 import '@vaadin/cookie-consent';
 import '@vaadin/crud';
 import '@vaadin/grid-pro';
