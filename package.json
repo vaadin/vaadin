@@ -17,7 +17,7 @@
     "@vaadin/vaadin-charts": "22.0.21",
     "@vaadin/vaadin-confirm-dialog": "22.0.21",
     "@vaadin/vaadin-cookie-consent": "22.0.21",
-    "@vaadin/vaadin-core": "22.0.25",
+    "@vaadin/vaadin-core": "22.0.26",
     "@vaadin/vaadin-crud": "22.0.21",
     "@vaadin/vaadin-grid-pro": "22.0.21",
     "@vaadin/vaadin-rich-text-editor": "22.0.21"
