@@ -13,7 +13,7 @@
     "@vaadin/grid-pro": "24.2.0-alpha4",
     "@vaadin/map": "24.2.0-alpha4",
     "@vaadin/rich-text-editor": "24.2.0-alpha4",
-    "@vaadin/vaadin-core": "24.2.0-alpha3"
+    "@vaadin/vaadin-core": "24.2.0-alpha4"
   },
   "files": [
     "vaadin.js"
