@@ -6,14 +6,14 @@
   "license": "(Apache-2.0 OR SEE LICENSE IN https://vaadin.com/license/cvdl-4.0)",
   "main": "vaadin.js",
   "dependencies": {
-    "@vaadin/board": "24.2.0-alpha7",
-    "@vaadin/charts": "24.2.0-alpha7",
-    "@vaadin/cookie-consent": "24.2.0-alpha7",
-    "@vaadin/crud": "24.2.0-alpha7",
-    "@vaadin/grid-pro": "24.2.0-alpha7",
-    "@vaadin/map": "24.2.0-alpha7",
-    "@vaadin/rich-text-editor": "24.2.0-alpha7",
-    "@vaadin/vaadin-core": "24.2.0-alpha5"
+    "@vaadin/board": "24.2.0-alpha9",
+    "@vaadin/charts": "24.2.0-alpha9",
+    "@vaadin/cookie-consent": "24.2.0-alpha9",
+    "@vaadin/crud": "24.2.0-alpha9",
+    "@vaadin/grid-pro": "24.2.0-alpha9",
+    "@vaadin/map": "24.2.0-alpha9",
+    "@vaadin/rich-text-editor": "24.2.0-alpha9",
+    "@vaadin/vaadin-core": "24.2.0-alpha6"
   },
   "files": [
     "vaadin.js"
