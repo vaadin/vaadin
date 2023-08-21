@@ -16,7 +16,7 @@
     "@vaadin/vaadin-board": "23.3.20",
     "@vaadin/vaadin-charts": "23.3.20",
     "@vaadin/vaadin-cookie-consent": "23.3.20",
-    "@vaadin/vaadin-core": "23.3.20",
+    "@vaadin/vaadin-core": "23.3.21",
     "@vaadin/vaadin-crud": "23.3.20",
     "@vaadin/vaadin-grid-pro": "23.3.20",
     "@vaadin/vaadin-rich-text-editor": "23.3.20"
