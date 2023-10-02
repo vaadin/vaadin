@@ -20,7 +20,7 @@
   "dependencies": {
     "vaadin-board": "vaadin-board#2.0.0",
     "vaadin-charts": "vaadin-charts#6.0.1",
-    "vaadin-core": "10.0.24",
+    "vaadin-core": "vaadin-core#10.0.25",
     "vaadin-license-checker": "vaadin-license-checker#2.0.1"
   }
 }
