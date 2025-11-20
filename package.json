@@ -16,7 +16,7 @@
     "@vaadin/vaadin-board": "23.6.2",
     "@vaadin/vaadin-charts": "23.6.2",
     "@vaadin/vaadin-cookie-consent": "23.6.2",
-    "@vaadin/vaadin-core": "23.6.4",
+    "@vaadin/vaadin-core": "23.6.5",
     "@vaadin/vaadin-crud": "23.6.2",
     "@vaadin/vaadin-grid-pro": "23.6.2",
     "@vaadin/vaadin-rich-text-editor": "23.6.2"
