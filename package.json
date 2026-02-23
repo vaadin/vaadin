@@ -14,7 +14,7 @@
     "@vaadin/grid-pro": "24.9.10",
     "@vaadin/map": "24.9.10",
     "@vaadin/rich-text-editor": "24.9.10",
-    "@vaadin/vaadin-core": "24.9.11"
+    "@vaadin/vaadin-core": "24.9.12"
   },
   "files": [
     "vaadin.js"
